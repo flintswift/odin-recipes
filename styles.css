@@ -6,6 +6,7 @@
 
 body {
     text-align: center;
+    background-color: lightblue
 }
 
 ul {
@@ -18,4 +19,11 @@ a {
 img {
     width: 350px;
     height: 350px;
+}
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: black;
 }
